@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mani Infra And Strategic Solution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: orange;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Mani Infra And Strategic Solution</h1>
+        <h2>About the Company</h2>
+        <p>
+            We are a bootstrap start-up providing turnkey Sustainability solutions, specializing in the selection & installation of suitable & cost-effective, high-value EV charging system for cost-saving commutation for clean mobility & a decarbonized transportation future.
+        </p>
+        <p>
+            Our specialization lies in the automobile sector & Electricals-Electronics. We focus on setting up "Electricity on a continuous move" through various initiatives such as commercial public mobility EV carrier with dedicated EVCS and Solar Powered Electric Vehicle Charging Stations (EVCS).
+        </p>
+        <h2>Our Ambition</h2>
+        <p>
+            Our ambition is to strengthen the global carbon footprint mission and implement the "National Electric Mobility Mission Plan" through the theme of “Green Energy Revolution Projects”.
+        </p>
+        <h2>Our Strategy</h2>
+        <p>
+            We have incorporated strategies to make ourselves sufficient for the launch of this venture. This includes studying EVs and charging systems globally, conducting field surveys, and preparing customized project reports for various sectors.
+        </p>
+        <h2>Team</h2>
+        <p>
+            Our team comprises trained engineers, managers, electricians, and wiremen who form the backbone of our company. We offer comprehensive solutions for all electrical, electronics & print media needs with a focus on safety, reliability, efficiency, and productivity.
+        </p>
+        <h2>Why Choose Us?</h2>
+        <p>
+            We are committed to providing the best service to our customers in terms of safety, quality, time, and budget. We see tomorrow as a whole new world of possibilities and strive for customer satisfaction.
+        </p>
+        <h2>What Can Be Done</h2>
+        <p>
+            We aim to work towards clean mobility and a decarbonized transportation future by introducing perspectives in the field of Green Energy, Solar Systems, Electric Vehicles, and installation of their Charging Stations.
+        </p>
+        <h2>Way Ahead</h2>
+        <p>
+            We plan to penetrate and capture the emerging market around the world through various phases, including introducing Electric Vehicle Pilot Projects, displaying prototypes at prominent locations, encouraging corporates to adopt Electric Vehicle technology, and promoting commercial usage.
+        </p>
+    </div>
+</body>
+
+</html>
